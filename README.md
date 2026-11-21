@@ -1,6 +1,7 @@
 # 🎯 Hermes Agent 技能集
 
-本仓库收录了我为 [Hermes Agent](https://hermes-agent.nousresearch.com) 编写的技能（Skills）。技能是 Hermes Agent 的可复用程序性记忆——遇到匹配场景时自动加载，指导 Agent 完成任务。
+本仓库收录为 [Hermes Agent](https://hermes-agent.nousresearch.com) 编写的技能（Skills）。
+技能是 Hermes Agent 的可复用程序性记忆——遇到匹配场景时自动加载，指导 Agent 完成任务。
 
 ## 📦 技能列表
 
@@ -80,4 +81,4 @@ hermes skills install https://raw.githubusercontent.com/senxppp/skill/main/mimo-
 - mimo-tts-setup：基于 [Stark-X/hermes-mimo-tts](https://github.com/Stark-X/hermes-mimo-tts)（MIT）整理
 - china-setup / pptx-generator：原创，MIT
 
-如有问题欢迎提 [Issue](https://github.com/senxppp/skill/issues)！
+问题与建议请提到 [Issues](https://github.com/senxppp/skill/issues)。
